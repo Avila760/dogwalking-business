@@ -1,0 +1,87 @@
+/* B&B Flexed info boxes 1 */
+.bb-flexed-info-boxes-1.wp-block-kadence-column,
+.bb-flexed-info-boxes-1 .kt-inside-inner-col,
+.bb-flexed-info-boxes-1 .wp-block-kadence-infobox,
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-media-align-top,
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-media-align-top .kt-infobox-textcontent {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.bb-flexed-info-boxes-1 .kt-inside-inner-col,
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-link-wrap,
+.bb-flexed-info-boxes-1 .kt-infobox-textcontent {
+    flex: 1;
+}
+
+.bb-flexed-info-boxes-1 .kadence-info-box-image-inner-intrisic-container .kadence-info-box-image-intrisic {
+    width: auto !important;
+}
+
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-media,
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-media img {
+    width: 100%;
+}
+
+.bb-flexed-info-boxes-1 .kt-info-svg-icon svg {
+    margin: auto;
+}
+
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-learnmore-wrap {
+    margin-top: auto;
+}
+
+/* B&B Flexed info boxes 1 */
+.bb-flexed-info-boxes-1.wp-block-kadence-column,
+.bb-flexed-info-boxes-1 .kt-inside-inner-col,
+.bb-flexed-info-boxes-1 .wp-block-kadence-infobox,
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-media-align-top,
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-media-align-top .kt-infobox-textcontent {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    border-radius: 10px;
+}
+
+.bb-flexed-info-boxes-1 .kt-inside-inner-col,
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-link-wrap,
+.bb-flexed-info-boxes-1 .kt-infobox-textcontent {
+    flex: 1;
+}
+
+.bb-flexed-info-boxes-1 .kadence-info-box-image-inner-intrisic-container .kadence-info-box-image-intrisic {
+    width: auto !important;
+}
+
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-media,
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-media img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.bb-flexed-info-boxes-1 .kt-info-svg-icon svg {
+    margin: auto;
+}
+
+.bb-flexed-info-boxes-1 .kt-blocks-info-box-learnmore-wrap {
+    margin-top: auto;
+}
+
+/* B&B Masonry Testimonials 1 */
+.bb-masonry-testimonials-1 .kt-testimonial-grid-wrap {
+    display: block;
+    -moz-columns: 20em;
+    columns: 20em;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+    -moz-column-fill: balance;
+    column-fill: balance;
+}
+
+.bb-masonry-testimonials-1 .kt-testimonial-grid-wrap .kt-testimonial-item-wrap {
+    page-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    break-inside: avoid;
+    margin-bottom: 40px;
+}
