@@ -805,7 +805,7 @@ input[type="submit"]:active,
 
 .header-social-wrap .header-social-inner-wrap {
     display: grid;
-    grid-template-columns: 1fr auto;    
+    grid-template-columns: auto auto;    
     font-size: 1em;
     gap: 0.5em;
 }
