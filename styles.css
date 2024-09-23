@@ -3,10 +3,3 @@
             content-visibility: auto;
             contain-intrinsic-size: 1px 1000px;
         }
-
-.header-social-wrap .header-social-inner-wrap {
-    font-size: 1em;
-    gap: 0.5em;
-    display: grid;
-    grid-template-columns: 1fr auto;
-}
